@@ -1,7 +1,7 @@
 # Selenium_Website_Testing
 
 # Chrome driver link
-Please download add chrome driver to the path specified in main.py
+Please download add chrome driver to the path: "C:\Program Files (x86)\chromedriver.exe"
 link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 # install selenium globally (for ease)
@@ -9,3 +9,9 @@ link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 # Run the project
 --> python main.py
+
+# Dependencies
+-python
+-pip
+
+Make sure you have both on your system
