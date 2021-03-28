@@ -4,7 +4,7 @@
 Please download add chrome driver to the path: "C:\Program Files (x86)\chromedriver.exe"
 link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-# install selenium globally (for ease)
+# install selenium globally (for ease use)
 --> pip install selenium
 
 # Run the project
